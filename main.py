@@ -1,4 +1,4 @@
-from utils.import_functions import import_car_plate
+from utils.import_functions import import_car_plate, import_car_brand
 
 # get the license plate
 selected_plate = input("Insert the license plate: \n")
